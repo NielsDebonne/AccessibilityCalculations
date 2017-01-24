@@ -1,3 +1,5 @@
+#!/usr/bin/python
+#coding: utf-8
 # Niels Debonne - created 23-02-2017
 # Make cost image and accessibility map for Cambodia
 # cost is dependent on TRI and Road type / availability and water
