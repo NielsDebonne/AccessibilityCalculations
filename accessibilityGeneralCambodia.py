@@ -5,8 +5,9 @@
 # cost is dependent on TRI and Road type / availability and water
 
 # Setting the data sources and libraries
-print 'starting up'
 import arcpy
+print 'starting up'
+
 arcpy.CheckOutExtension("Spatial")
 arcpy.env.overwriteOutput = 1
 # set working directory and paths to road map rasters, and Terrain Ruggedness Index
